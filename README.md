@@ -22,3 +22,4 @@
 6. Implement the functionality necessary to get all of the tests passing
 7. After all tests are passing, `add` and `commit` your code and push it to your remote fork
 8. Paste the link to your fork in the end of week guide page on DevCamp
+# week-one-rails
